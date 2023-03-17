@@ -8,6 +8,7 @@ public class cb {
         System.out.println("슬프다.");
         System.out.println("눈물");
         System.out.println("하아  모르겟다");
+        System.out.println("안녕 난 창빈이야");
     }
 
 }
