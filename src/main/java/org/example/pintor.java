@@ -6,5 +6,6 @@ public class pintor {
         System.out.println("Second commit from pintor.");
         System.out.println("Third commit from pintor.");
         System.out.println("Fourth commit from pintor.");
+        System.out.println("Fifth commit from pintor.");
     }
 }
