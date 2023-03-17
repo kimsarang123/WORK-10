@@ -7,8 +7,7 @@ public class cb {
         System.out.println("git 이 뭐야?");
         System.out.println("슬프다.");
         System.out.println("눈물");
-
-
+        System.out.println("하아  모르겟다");
     }
 
 }
